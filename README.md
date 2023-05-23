@@ -21,4 +21,4 @@ And more exciting features that will be unveiled in the near future, taking Mong
 
 
 Get ready to dive into the beta version of MongODM, coming your way in the next quarter! Be among the first to test-drive this groundbreaking cross-language MongoDB ODM. 
-Stay up to date with the latest developments by joining our newsletter. Simply email us on info@gdglebanon.com to receive weekly updates and be part of the MongODM revolution!
+Stay up to date with the latest developments by joining our newsletter. Simply email us on info@mongodm.com to receive weekly updates and be part of the MongODM revolution!

@@ -3,7 +3,6 @@ Introducing MongODM: The Cross-Language MongoDB ODM!
 Experience the next generation of MongoDB development with MongODM. Designed to seamlessly integrate with Node.js, Golang, and Deno, MongODM empowers developers to build robust and scalable applications with ease. 
 
 # MongODM Features
-Explore the extensive list of powerful features that MongODM brings to the table:
 
     ⁃    Object-Document Mapping: MongODM provides a comprehensive object-document mapping layer, allowing you to seamlessly work with MongoDB using intuitive models and schema definitions.
 
@@ -21,4 +20,5 @@ Explore the extensive list of powerful features that MongODM brings to the table
 And more exciting features that will be unveiled in the near future, taking MongODM to even greater heights.
 
 
-Get ready to dive into the beta version of MongODM, coming your way in the next quarter! Be among the first to test-drive this groundbreaking cross-language MongoDB ODM. Stay up to date with the latest developments by joining our newsletter. Simply enter your email below to receive weekly updates and be part of the MongODM revolution!
+Get ready to dive into the beta version of MongODM, coming your way in the next quarter! Be among the first to test-drive this groundbreaking cross-language MongoDB ODM. 
+Stay up to date with the latest developments by joining our newsletter. Simply email us on info@gdglebanon.com to receive weekly updates and be part of the MongODM revolution!

@@ -16,9 +16,9 @@ Experience the next generation of MongoDB development with MongODM. Designed to 
 
     ⁃    Robust Validation and Error Handling: Ensure data integrity with MongODM's robust validation and error handling mechanisms. Define validation rules and handle errors gracefully, guaranteeing the consistency and reliability of your data.
 
-
 And more exciting features that will be unveiled in the near future, taking MongODM to even greater heights.
 
 
 Get ready to dive into the beta version of MongODM, coming your way in the next quarter! Be among the first to test-drive this groundbreaking cross-language MongoDB ODM. 
+
 Stay up to date with the latest developments by joining our newsletter. Simply email us on info@mongodm.com to receive weekly updates and be part of the MongODM revolution!
